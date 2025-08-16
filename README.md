@@ -2,7 +2,7 @@
 
 **`Digital "drunk" craftman(enthusiast, tiktoker, blogger)`**
 
-About Me
+## About Me
 
 I am a developer and content creator with experience in building Telegram bots, Minecraft projects, and server infrastructures. Skilled in server setup, security, and hosting management. I enjoy experimenting with new technologies and gaming platforms.
 
