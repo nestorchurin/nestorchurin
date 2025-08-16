@@ -17,18 +17,18 @@ Programming: Python scripting, networking protocols.
   <!-- Telegram (через Shields.io) -->
   <a href="https://t.me/nestor_churin">
     <img alt="Telegram" title="Subscribe to my Telegram Channel"
-         src="https://img.shields.io/badge/Telegram-%40nestor_churin-blue?style=for-the-badge&logo=telegram">
+         src="https://img.shields.io/badge/Telegram-%40nestor_churin-blue?style=flat&logo=telegram">
   </a>
 
   <!-- GitHub Followers -->
   <a href="https://github.com/nestorchurin">
     <img alt="GitHub Followers" title="GitHub Followers"
-         src="https://img.shields.io/github/followers/nestorchurin?style=for-the-badge&logo=github">
+         src="https://img.shields.io/github/followers/nestorchurin?style=flat&logo=github">
   </a>
 
   <!-- TikTok -->
   <a href="https://www.tiktok.com/@nestor_churin">
     <img alt="TikTok" title="Follow me on TikTok"
-         src="https://img.shields.io/badge/TikTok-Follow-brightgreen?style=for-the-badge&logo=tiktok">
+         src="https://img.shields.io/badge/TikTok-Follow-brightgreen?style=flat&logo=tiktok">
   </a>
 </p>
