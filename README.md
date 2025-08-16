@@ -15,7 +15,7 @@ Programming: Python scripting, networking protocols.
 
 <p align="left">
   <a href="https://t.me/nestor_churin">
-    <img alt="Telegram Channel" title="Subscribe to my Telegram Channel"
+    <img alt="Telegram" title="Subscribe to my Telegram Channel"
          src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@nestor_churin">
   </a>
 </p>
