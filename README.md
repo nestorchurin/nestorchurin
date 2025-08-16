@@ -13,5 +13,5 @@ Servers & Hosting: Pterodactyl and Wings Daemon configuration, Cloudflare Tunnel
 Web: Nginx configuration, task automation with scripts.
 Programming: Python scripting, networking protocols.
 
-    <p align="left">
-    </p>
+<p align="left">
+</p>
