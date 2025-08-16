@@ -20,7 +20,7 @@ Programming: Python scripting, networking protocols.
   </a>
   <a href="https://github.com/YunexalMC">
     <img alt="GitHub Followers" title="GitHub Followers"
-         src="https://img.shields.io/github/followers/YunexalMC?style=for-the-badge&logo=github">
+         src="https://img.shields.io/github/followers/nestorchurin?style=for-the-badge&logo=github">
   </a>
 </p>
 
