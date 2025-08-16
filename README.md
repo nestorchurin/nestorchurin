@@ -14,13 +14,21 @@ Web: Nginx configuration, task automation with scripts.
 Programming: Python scripting, networking protocols.
 
 <p align="left">
+  <!-- Telegram (через Shields.io) -->
   <a href="https://t.me/nestor_churin">
     <img alt="Telegram" title="Subscribe to my Telegram Channel"
-         src="https://telegram-badge.vercel.app/api/telegram-badge?channelId=@nestor_churin">
+         src="https://img.shields.io/badge/Telegram-%40nestor_churin-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://github.com/YunexalMC">
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/nestorchurin">
     <img alt="GitHub Followers" title="GitHub Followers"
          src="https://img.shields.io/github/followers/nestorchurin?style=for-the-badge&logo=github">
   </a>
-</p>
 
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@nestor_churin">
+    <img alt="TikTok" title="Follow me on TikTok"
+         src="https://img.shields.io/badge/TikTok-Follow-brightgreen?style=for-the-badge&logo=tiktok">
+  </a>
+</p>
