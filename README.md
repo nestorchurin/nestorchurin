@@ -20,7 +20,7 @@ I don't play around with toy frameworks. I use tools that actually get the job d
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,linux,nginx,cloudflare,docker,git,bash&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=rust,python,linux,ubuntu,nginx,cloudflare,docker,git,bash&perline=9" alt="My Skills" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I don't play around with toy frameworks. I use tools that actually get the job d
 * 🦀 **Rust & Systems Engineering:** Memory safety without sacrificing raw, unadulterated speed. If it needs to be blazingly fast and unbreakable, I write it in Rust.
 * 🛠️ **Yunexal Panel Creator:** Currently developing **Yunexal** — a next-generation, Rust-powered server management panel. Pterodactyl is getting old; I'm building its replacement.
 * 🐍 **Telegram Ecosystem God:** Orchestrating complex automated systems and massive bot networks using **Aiogram** and **Telethon**. If it happens in Telegram, my code probably touches it.
-* 🐧 **Linux Supremacy:** Daily driving Linux and managing self-hosted infrastructure on my own tricked-out hardware (yes, pushing M710q setups to their absolute limits). If it's not a terminal, I'm not interested.
+* 🐧 **Linux Supremacy:** Daily driving **Zorin OS** on my main machine (because I like my desktop polished and fast, I use Zorin btw) and deploying heavy-duty, bulletproof infrastructure on **Ubuntu Server**. Everything runs on my own tricked-out bare-metal hardware (yes, pushing Lenovo M710q micro-clusters to their absolute mechanical limits). If it's not a terminal or a beautifully optimized kernel, I'm simply not interested.
 * 🕹️ **Minecraft Architecture:** From core server optimization to custom logic. I don't just run servers; I engineer the entire experience.
 
 ---
