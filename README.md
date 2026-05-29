@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=0F9D84&center=true&vCenter=true&width=900&lines=Nestor+(Pavlo)+Churin;Founder+of+Yunexal;Building+self-hosted+infrastructure+tools;Rust+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Product+mindset" alt="Typing SVG" />
 </a>
 
-<h1>Infrastructure builder</h1>
+<h1>Rust-first infrastructure builder</h1>
 
 <p>
   Founder of <b>Yunexal</b> and creator of <b>Yunexal Panel</b>.<br>
-  I build self-hosted products, backend systems, and server tooling with a strong bias for shipping.
+  I build self-hosted products, Rust backends, and operational tooling with a strong bias for shipping.
 </p>
 
 <p>
@@ -25,9 +25,9 @@
 
 ## Current Focus
 
-- Building Yunexal Panel as a Docker-native, self-hosted server management platform.
+- Building Yunexal Panel as a Rust-native, Docker-native self-hosted server management platform.
 - Designing fast backend systems with Rust, Axum, and SQLite.
-- Reducing operational complexity for people who run their own infrastructure.
+- Turning infrastructure workflows into simpler product experiences.
 
 ## Core Stack
 
@@ -39,6 +39,7 @@
 
 ## Working Style
 
+- Rust-first: performance, predictability, and shipping a single strong runtime matter.
 - Product-first: I care about whether the tool is actually usable in production.
 - Self-hosted mindset: fewer moving parts, clearer deployment, stronger control.
 - Systems approach: performance, operational clarity, and maintainability matter.
@@ -48,7 +49,7 @@
 
 ### Yunexal Panel
 
-Modern self-hosted server management focused on practical infrastructure workflows.
+Modern self-hosted server management focused on practical infrastructure workflows and a Rust-native core.
 
 - Rust + Axum backend.
 - SQLite storage.

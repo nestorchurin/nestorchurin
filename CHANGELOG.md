@@ -9,3 +9,5 @@
 - upgraded the lower sections with editorial section headers, project highlight metrics, grouped skills, and a stronger closing CTA
 - rewrote the profile README to match the new site direction with clearer positioning, stack, and project focus
 - removed location-specific mentions from the profile README and front-end copy, and switched the clock to a generic live time display
+- shifted the profile and landing page copy to a stronger Rust-first positioning and tightened the product messaging
+- fixed the live page runtime after the Rust-first copy pass by repairing the generic date formatter and broken ru translation strings
