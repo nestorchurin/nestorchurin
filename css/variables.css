@@ -1,0 +1,61 @@
+:root {
+  color-scheme: light dark;
+  --font-heading: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-body: "Space Grotesk", "Segoe UI", sans-serif;
+  --font-mono: "Space Mono", "Cascadia Mono", monospace;
+
+  --bg-color: #edf3fa;
+  --surface-color: rgba(255, 255, 255, 0.72);
+  --surface-color-strong: rgba(255, 255, 255, 0.92);
+  --surface-fade: rgba(12, 159, 133, 0.26);
+  --surface-fade-strong: rgba(47, 114, 255, 0.2);
+  --surface-hero: rgba(255, 255, 255, 0.58);
+  --surface-inverse: #0f172d;
+
+  --text-color: #11162b;
+  --muted-text: #4d5a7a;
+  --accent: #0f9d84;
+  --accent-strong: #0a725f;
+  --accent-contrast: #04241d;
+  --accent-soft: rgba(15, 157, 132, 0.12);
+  --highlight: #1f66ff;
+
+  --border-color: rgba(17, 22, 43, 0.14);
+  --border-strong: rgba(17, 22, 43, 0.22);
+  --card-shadow: 0 20px 45px rgba(13, 17, 32, 0.11);
+  --card-shadow-strong: 0 28px 65px rgba(13, 17, 32, 0.16);
+
+  --content-width: min(1180px, 92vw);
+  --radius-lg: 24px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --radius-xl: 32px;
+
+  --transition-fast: 180ms ease;
+  --transition-base: 260ms ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #07111f;
+    --surface-color: rgba(10, 17, 35, 0.72);
+    --surface-color-strong: rgba(12, 22, 45, 0.9);
+    --surface-fade: rgba(15, 157, 132, 0.24);
+    --surface-fade-strong: rgba(39, 113, 255, 0.27);
+    --surface-hero: rgba(8, 15, 31, 0.62);
+    --surface-inverse: #f2f6ff;
+
+    --text-color: #ecf1ff;
+    --muted-text: #9fb0d8;
+    --accent: #4ae7c9;
+    --accent-strong: #73ffe0;
+    --accent-contrast: #07231d;
+    --accent-soft: rgba(74, 231, 201, 0.12);
+    --highlight: #8ab1ff;
+
+    --border-color: rgba(154, 175, 227, 0.26);
+    --border-strong: rgba(154, 175, 227, 0.38);
+    --card-shadow: 0 24px 55px rgba(0, 0, 0, 0.45);
+    --card-shadow-strong: 0 32px 70px rgba(0, 0, 0, 0.5);
+  }
+}
