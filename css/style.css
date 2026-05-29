@@ -93,7 +93,7 @@ summary:focus-visible {
 }
 
 .site-header.is-scrolled {
-  background: rgba(255, 255, 255, 0.82);
+  background: var(--surface-header-scrolled);
   box-shadow: 0 14px 30px rgba(10, 16, 33, 0.08);
   border-bottom-color: var(--border-strong);
 }

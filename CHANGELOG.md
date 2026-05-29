@@ -11,3 +11,5 @@
 - removed location-specific mentions from the profile README and front-end copy, and switched the clock to a generic live time display
 - shifted the profile and landing page copy to a stronger Rust-first positioning and tightened the product messaging
 - fixed the live page runtime after the Rust-first copy pass by repairing the generic date formatter and broken ru translation strings
+- fixed the sticky header in dark theme by replacing the hardcoded scrolled background with theme-aware surface tokens
+- versioned CSS and JS asset URLs in the landing page to bypass stale Cloudflare cache on production

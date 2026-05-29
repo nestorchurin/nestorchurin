@@ -10,6 +10,7 @@
   --surface-fade: rgba(12, 159, 133, 0.26);
   --surface-fade-strong: rgba(47, 114, 255, 0.2);
   --surface-hero: rgba(255, 255, 255, 0.58);
+  --surface-header-scrolled: rgba(255, 255, 255, 0.82);
   --surface-inverse: #0f172d;
 
   --text-color: #11162b;
@@ -43,6 +44,7 @@
     --surface-fade: rgba(15, 157, 132, 0.24);
     --surface-fade-strong: rgba(39, 113, 255, 0.27);
     --surface-hero: rgba(8, 15, 31, 0.62);
+    --surface-header-scrolled: rgba(8, 15, 31, 0.86);
     --surface-inverse: #f2f6ff;
 
     --text-color: #ecf1ff;
