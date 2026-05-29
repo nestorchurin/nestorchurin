@@ -16,14 +16,14 @@ const translations = {
     "hero.ctaContact": "Зв'язатися",
     "hero.hostingNote": "Цей сайт хоститься на Yunexal Panel.",
     "hero.statusPill": "Незалежний білдер",
-    "hero.livePill": "Шиплю з Києва",
+    "hero.livePill": "Шиплю без зупинки",
     "hero.panelKicker": "Швидкий зріз",
     "hero.signalRoleLabel": "Роль",
     "hero.signalRoleValue": "Засновник, Yunexal",
     "hero.signalFocusLabel": "Поточний фокус",
     "hero.signalFocusValue": "Yunexal Panel",
     "hero.signalStackLabel": "Базовий стек",
-    "hero.metricTimeLabel": "Київський час",
+    "hero.metricTimeLabel": "Поточний час",
     "hero.metricYearsLabel": "Підхід",
     "hero.metricYearsValue": "Product-first",
 
@@ -33,7 +33,7 @@ const translations = {
     "stats.focusValue": "Yunexal Panel",
     "stats.stackLabel": "Стек",
     "stats.stackValue": "Rust, Axum, Docker",
-    "stats.timeLabel": "Київський час",
+    "stats.timeLabel": "Поточний час",
 
     "about.kicker": "Профіль",
     "about.title": "Про мене",
@@ -92,7 +92,8 @@ const translations = {
     "contacts.telegramNote": "Шитпост, технічна частина і апдейти про Yunexal.",
     "contacts.emailLabel": "Email",
     "contacts.discordLabel": "Discord",
-    "contacts.timeLabel": "Часовий пояс",
+    "contacts.timeLabel": "Режим",
+    "contacts.timeValue": "Live зараз",
 
     "footer.copy": "© {year} Nestor (Pavlo) Churin. Створено з фокусом на self-hosted інфраструктуру."
   },
@@ -113,14 +114,14 @@ const translations = {
     "hero.ctaContact": "Contact me",
     "hero.hostingNote": "This site is hosted on Yunexal Panel.",
     "hero.statusPill": "Independent builder",
-    "hero.livePill": "Shipping from Kyiv",
+    "hero.livePill": "Shipping continuously",
     "hero.panelKicker": "At a glance",
     "hero.signalRoleLabel": "Role",
     "hero.signalRoleValue": "Founder, Yunexal",
     "hero.signalFocusLabel": "Current focus",
     "hero.signalFocusValue": "Yunexal Panel",
     "hero.signalStackLabel": "Core stack",
-    "hero.metricTimeLabel": "Kyiv time",
+    "hero.metricTimeLabel": "Live time",
     "hero.metricYearsLabel": "Approach",
     "hero.metricYearsValue": "Product-first",
 
@@ -130,7 +131,7 @@ const translations = {
     "stats.focusValue": "Yunexal Panel",
     "stats.stackLabel": "Stack",
     "stats.stackValue": "Rust, Axum, Docker",
-    "stats.timeLabel": "Kyiv time",
+    "stats.timeLabel": "Current time",
 
     "about.kicker": "Profile",
     "about.title": "About",
@@ -189,7 +190,8 @@ const translations = {
     "contacts.telegramNote": "Shitposts, technical content, and Yunexal updates.",
     "contacts.emailLabel": "Email",
     "contacts.discordLabel": "Discord",
-    "contacts.timeLabel": "Timezone",
+    "contacts.timeLabel": "Mode",
+    "contacts.timeValue": "Live now",
 
     "footer.copy": "© {year} Nestor (Pavlo) Churin. Built with focus on self-hosted infrastructure."
   },
@@ -203,21 +205,21 @@ const translations = {
     "hero.eyebrow": "Засновник Yunexal. Украінєц. Нє запорєбрік, нє арк, нє «своіх нє бросаєм».",
     "hero.title": "Nestor (Pavlo) Churin",
     "hero.subtitle": "Пішу kod поки кацапи сідят в канаві і чєкают на «побєду».",
-    "hero.description": "Украінєц з Кієва. Поки орки «дємілітарізіруют» — я будую інфру. Yunexal Panel нє здасца. Слава Украіні. Смєрть ворогам.",
+    "hero.description": "Украінєц. Поки орки «дємілітарізіруют» — я будую інфру. Yunexal Panel нє здасца. Слава Украіні. Смєрть ворогам.",
     "hero.ageLabel": "Скільки мєні рокув",
     "hero.themeLabel": "Тєма: авто (нє «руській мір»)",
     "hero.ctaProjects": "Дивіца прайєкти",
     "hero.ctaContact": "Написати мєні",
     "hero.hostingNote": "Хоститься на Yunexal Panel — украінська інфра, нє рашисткіє дата-цєнтри.",
     "hero.statusPill": "Нєзавісімий білдер",
-    "hero.livePill": "Шиплю з Кієва",
+    "hero.livePill": "Шиплю постійно",
     "hero.panelKicker": "Коротко",
     "hero.signalRoleLabel": "Роль",
     "hero.signalRoleValue": "Засновнік, Yunexal",
     "hero.signalFocusLabel": "Фокус",
     "hero.signalFocusValue": "Yunexal Panel",
     "hero.signalStackLabel": "Стєк",
-    "hero.metricTimeLabel": "Час у Кієвє",
+    "hero.metricTimeLabel": "Поточний час",
     "hero.metricYearsLabel": "Підход",
     "hero.metricYearsValue": "Product-first",
 
@@ -227,7 +229,7 @@ const translations = {
     "stats.focusValue": "Yunexal Panel",
     "stats.stackLabel": "Стєк",
     "stats.stackValue": "Rust, Axum, Docker",
-    "stats.timeLabel": "Час у Кієвє (нє в Масквє)",
+    "stats.timeLabel": "Поточний час",
 
     "about.kicker": "Профіль",
     "about.title": "Хто я (нє ваш «братській народ»)",
@@ -286,14 +288,14 @@ const translations = {
     "contacts.telegramNote": "Шітпости, тєхконтєнт, апдейти Yunexal. Слава Украіні — і цьому каналу.",
     "contacts.emailLabel": "Email",
     "contacts.discordLabel": "Discord",
-    "contacts.timeLabel": "Часовий пояс",
+    "contacts.timeLabel": "Режим",
+    "contacts.timeValue": "Live зараз",
 
     "footer.copy": "© {year} Nestor (Pavlo) Churin. Украінєц. Нє запорєбрік. Слава Украіні — Героям Слава."
   }
 };
 
 const DEFAULT_BIRTH_DATE_STRING = "10.03.2005";
-const TIME_ZONE = "Europe/Kyiv";
 const STORAGE_KEY = "nestor-churin-bio-language";
 const SUPPORTED_LANGUAGES = ["uk", "en", "ru"];
 
@@ -443,7 +445,7 @@ function applyLanguage(language) {
   });
 
   setStoredLanguage(activeLanguage);
-  updateKyivTime();
+  updateLiveTime();
 }
 
 function updateAge() {
@@ -454,13 +456,13 @@ function updateAge() {
 
   const birthDateString = ageNode.dataset.birthDate || DEFAULT_BIRTH_DATE_STRING;
   const dateOfBirth = parseBirthDate(birthDateString);
-  const currentDate = getCurrentDateParts(TIME_ZONE);
+  const currentDate = getCurrentDateParts();
   const age = calculateAge(dateOfBirth, currentDate);
 
   ageNode.textContent = age === null ? "--" : String(age);
 }
 
-function updateKyivTime() {
+function updateLiveTime() {
   const localeByLanguage = {
     uk: "uk-UA",
     en: "en-GB",
@@ -469,14 +471,13 @@ function updateKyivTime() {
 
   const locale = localeByLanguage[activeLanguage] || "en-GB";
   const formatter = new Intl.DateTimeFormat(locale, {
-    timeZone: TIME_ZONE,
     hour: "2-digit",
     minute: "2-digit",
     hour12: false
   });
 
   const formattedTime = formatter.format(new Date());
-  document.querySelectorAll("[data-kyiv-time]").forEach((node) => {
+  document.querySelectorAll("[data-live-time]").forEach((node) => {
     node.textContent = formattedTime;
   });
 }
@@ -618,7 +619,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   updateAge();
   applyLanguage(resolveInitialLanguage());
-  updateKyivTime();
+  updateLiveTime();
 
-  setInterval(updateKyivTime, 30000);
+  setInterval(updateLiveTime, 30000);
 });
